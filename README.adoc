@@ -26,21 +26,45 @@
 //3+| mesclar linha tabela
 
 = Manual do Estudante - CST em Sistemas para Internet
-Fagno Alves Fonseca <fagno.fonseca@ifto.edu.br>
-Mestre em Modelagem Computacional de Sistemas – UFT.
 
-IMPORTANT: MATERIAL EM CONSTRUÇÃO
+Coordenador(a): Fagno Alves Fonseca
 
-== Objetivo
+E-mail: csint.palmas@ifto.edu.br
 
-Este manual tem o objetivo de apresentar todas as informações do Curso Superior de Tecnologia em Sistemas para Internet aos estudantes.
+Telefone: (63) 3236 4037
 
-== Falar com o coordenador
+== SIGA
 
-IMPORTANT: E-MAIL: csint.palmas@ifto.edu.br
+As principais atividades da vida acadêmica dos estudantes do curso superior de Sistemas para Internet são registradas no Sistema de Informação e Gestão Acadêmica https://sigaaluno.ifto.edu.br/sigaepct-aluno-web/login.jsf[SIGA]. 
 
-== Página do Curso - Sistemas para Internet
+IMPORTANT: Informações como matrícula, grade de horários, notas e histórico escolar podem ser acessadas por meio de login e senha.
 
+Primeiro Acesso/Esqueceu sua Senha do https://sigaaluno.ifto.edu.br/sigaepct-aluno-web/login.jsf[SIGA]?
+
+video::LT5wbZNvnKc[youtube,width=640,height=480]
+
+== MOODLE
+
+== Documentos
+
+Grade Curricular VIGENTE
+
+http://portal.ifto.edu.br/ifto/colegiados/consup/documentos-aprovados/ppc/campus-palmas/tecnologia-em-sistemas-para-internet[Projeto Pedagógico do Curso - PPC]
+
+Grade Curricular ANTIGA (ATIVA)
+    
+http://portal.ifto.edu.br/ifto/colegiados/consup/documentos-aprovados/ppc/campus-palmas/tecnologia-em-sistemas-para-internet/ppc-tecnologia-sistemas-internet-campus-palmas.pdf/@@download/file/ppc-tecnologia-sistemas-internet-campus-palmas.pdf[Projeto Pedagógico do Curso - PPC]
+
+== COMO ABRIR REQUERIMENTO
+
+IMPORTANT: Acadêmicos do Campus Palmas podem solicitar a abertura de processo online
+
+WARNING: Leia o tópico a seguir caso tenha dúvidas sobre qual tipo de solicitação deseja.
+
+Acadêmicos do IFTO – Campus Palmas podem solicitar a abertura de processo via formulário online disponível https://forms.gle/q29rbBmGKWH5gM96A[neste link].
+Preencha corretamente seus dados, sua solicitação e anexe os documentos conforme a solicitação e de acordo com o Edital (caso esteja participando de algum deles).
+
+== REQUERIMENTOS
 
 
 

@@ -47,7 +47,7 @@ video::LT5wbZNvnKc[youtube,width=640,height=480]
 
 A instituição adota duas plataformas como sala virtual. Alguns professores utilizam o Moodle e outros professores o Classroom. A seguir é apresentado como efetuar acesso as disciplinas em cada uma das plataformas.
 
-=== MOOODLE
+=== Moodle
 
 Para ter acesso a plataforma MOODLE é necessário que os alunos estejam matriculados.
 
@@ -61,7 +61,7 @@ video::v_vQvUifMm0[youtube,width=640,height=480]
 
 Outro vídeos podem ser encontrados no tutorial Moodle disponível no https://fagno.github.io/moodle-tutorial/moodle-alunos/[Tutorial Moodle para Alunos.
 
-=== GOOGLE CLASSROOM
+=== Google Classroom
 
 Google Classroom é um sistema de gerenciamento de conteúdo para escolas que procuram simplificar a criação, a distribuição e a avaliação de trabalhos. Ele é um recurso do Google Apps para a área de educação.
 

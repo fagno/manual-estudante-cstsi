@@ -31,7 +31,7 @@ Coordenador(a): Fagno Alves Fonseca
 
 E-mail: csint.palmas@ifto.edu.br
 
-Telefone: (63) 3236 4037
+Telefone: (63) 3236 4037 (ATENDIMENTO POR E-MAIL DURANTE O PERÍODO DE ENSINO REMOTO)
 
 == SIGA
 
@@ -43,28 +43,249 @@ Primeiro Acesso/Esqueceu sua Senha do https://sigaaluno.ifto.edu.br/sigaepct-alu
 
 video::LT5wbZNvnKc[youtube,width=640,height=480]
 
-== MOODLE
+== MOODLE E GOOGLE CLASSROOM 
 
-== Documentos
+A instituição adota duas plataformas como sala virtual. Alguns professores utilizam o Moodle e outros professores o Classroom. A seguir é apresentado como efetuar acesso as disciplinas em cada uma das plataformas.
 
-Grade Curricular VIGENTE
+=== MOOODLE
 
-http://portal.ifto.edu.br/ifto/colegiados/consup/documentos-aprovados/ppc/campus-palmas/tecnologia-em-sistemas-para-internet[Projeto Pedagógico do Curso - PPC]
+Para ter acesso a plataforma MOODLE é necessário que os alunos estejam matriculados.
 
-Grade Curricular ANTIGA (ATIVA)
-    
-http://portal.ifto.edu.br/ifto/colegiados/consup/documentos-aprovados/ppc/campus-palmas/tecnologia-em-sistemas-para-internet/ppc-tecnologia-sistemas-internet-campus-palmas.pdf/@@download/file/ppc-tecnologia-sistemas-internet-campus-palmas.pdf[Projeto Pedagógico do Curso - PPC]
+WARNING: E-mail suporte Moodle: moodle.palmas@ifto.edu.br.
+
+IMPORTANT: Os alunos devem utilizar os mesmos dados de acesso ao sistema acadêmico SIGA. No login devem utilizar o CPF (somente números) e sua senha pessoal.
+
+O vídeo a seguir apresenta como efetuar o primeiro acesso na plataforma.
+
+video::v_vQvUifMm0[youtube,width=640,height=480]
+
+Outro vídeos podem ser encontrados no tutorial Moodle disponível no https://fagno.github.io/moodle-tutorial/moodle-alunos/[Tutorial Moodle para Alunos.
+
+=== GOOGLE CLASSROOM
+
+Google Classroom é um sistema de gerenciamento de conteúdo para escolas que procuram simplificar a criação, a distribuição e a avaliação de trabalhos. Ele é um recurso do Google Apps para a área de educação.
+
+video::1p84Mlkwiww[youtube,width=640,height=480]
+
+A seguir é apresentado o código de acesso as disciplinas para o semestre 2021/1.
+
+...
+
+== MOODLE MOBILE
+
+Vídeo de apresentação: https://www.youtube.com/watch?v=6baJWsoH2bI
+
+*Passo 1: Efetuar download do aplicativo na Google Play ou App Store.*
+
+- Google Play: link:https://play.google.com/store/apps/details?id=com.moodle.moodlemobile/[Download]
+- App Store: link:https://apps.apple.com/br/app/moodle/id633359593/[Download]
+
+*Passo 2: Inserir URL da página do Moodle.*
+
+IMPORTANT: Inserir a URL https://moodlepalmas.ifto.edu.br/moodle no campo Site address conforme figura 1.
+
+NOTE: É necessário incluir '/moodle' como consta no endereço da plataforma. 
+
+.Inserir URL da página do Moodle
+image::moodle-mobile-img1.png[width=400,height=300]
+
+*Passo 3: Inserir usuário e senha no campo Username e Password conforme figura 2.*
+
+.Inserir usuário e senha
+image::moodle-mobile-img2.png[width=400,height=300]
+
+== DOCUMENTOS
+
+Grade Curricular VIGENTE: http://portal.ifto.edu.br/ifto/colegiados/consup/documentos-aprovados/ppc/campus-palmas/tecnologia-em-sistemas-para-internet[Projeto Pedagógico do Curso - PPC]
+
+Grade Curricular ANTIGA (ATIVA): http://portal.ifto.edu.br/ifto/colegiados/consup/documentos-aprovados/ppc/campus-palmas/tecnologia-em-sistemas-para-internet/ppc-tecnologia-sistemas-internet-campus-palmas.pdf/@@download/file/ppc-tecnologia-sistemas-internet-campus-palmas.pdf[Projeto Pedagógico do Curso - PPC]
 
 == COMO ABRIR REQUERIMENTO
 
-IMPORTANT: Acadêmicos do Campus Palmas podem solicitar a abertura de processo online
-
-WARNING: Leia o tópico a seguir caso tenha dúvidas sobre qual tipo de solicitação deseja.
+IMPORTANT: Acadêmicos do Campus Palmas podem solicitar a abertura de processo online https://forms.gle/q29rbBmGKWH5gM96A[neste link].
 
 Acadêmicos do IFTO – Campus Palmas podem solicitar a abertura de processo via formulário online disponível https://forms.gle/q29rbBmGKWH5gM96A[neste link].
+
 Preencha corretamente seus dados, sua solicitação e anexe os documentos conforme a solicitação e de acordo com o Edital (caso esteja participando de algum deles).
 
-== REQUERIMENTOS
+== SOBRE O CURSO
 
+O curso visa formar profissionais capazes de desenvolver competências associadas à gerência e ao desenvolvimento de sistemas para Internet. Propõe mesclar conhecimentos teóricos e atividades práticas, com foco nas técnicas, metodologias apropriadas, e linguagens
+aplicadas às atividades de concepção, especificação, projeto, implementação, avaliação, suporte e manutenção de sistemas para Internet, ao desenvolvimento de Websites e à
+programação para dispositivos móveis.
 
+|===
+|EIXO TECNOLÓGICO| Informação e Comunicação
+|CURSO| Curso Superior de Tecnologia em Sistemas para Internet
+|NÍVEL| Superior
+|MODALIDADE| Tecnológico
+|REGIME DE OFERTA| ( X ) Presencial ( ) Distância
+|CARGA HORÁRIA TOTAL| 2.120 horas
+|DURAÇÃO DO CURSO| Período mínimo de 06 (seis) semestres e período máximo de 12 (doze) semestres.
+|REGIME DE OFERTA| Semestral
+|REGIME DE MATRÍCULA| Crédito
+|NÚMERO DE VAGAS OFERECIDAS/ANO| 120 vagas/ano (60 vagas/semestre)
+|TURNO| Matutino e Noturno
+|===
 
+=== Carga Horária
+
+A formação no Curso Superior de Tecnologia em Sistemas para Internet é contemplada por uma base sólida de conhecimentos ofertados no seu conjunto de disciplinas, que compreende 2.000 horas e Atividades Complementares de 120 horas, totalizando 2.120 horas para a integralização do curso.
+
+=== Regime de Ofertas
+
+As aulas serão executadas de segunda a sexta-feira, podendo haver aulas aos sábados, que poderão ser considerados como dias letivos, conforme necessidade da Coordenação do Curso, para o desenvolvimento de atividades semipresenciais, reposição de aulas ou de acordo com o
+calendário acadêmico.
+
+Uma vez definidos os sábados como dias letivos, as aulas nesses dias poderão ocorrer nos turnos matutino e/ou vespertino.
+
+No Curso Superior de Tecnologia em Sistemas para Internet, serão ofertadas disciplinas que utilizam a modalidade presencial, com oferta de 20% da carga horária em modalidade de Educação Semipresencial, observando o disposto na legislação vigente.
+
+O curso será ofertado nos períodos matutino e noturno.
+
+IMPORTANT: Aulas com duração de 45 minutos.
+
+|===
+| *TURNO* | *ENTRADA* | *INTERVALO* | *SAÍDA*
+|MATUTINO| 08:00hs | 09:30hs às 09:50hs | 11:20hs
+|NOTURNO| 08:00hs | 20:30hs às 20:50hs | 22:20hs
+|===
+
+=== Integralização Curricular
+
+O período para integralização curricular do curso é de no mínimo 06 (seis) semestres letivos, e no máximo 12 semestres letivos, *não havendo a obrigatoriedade de Trabalho
+de Conclusão de Curso (TCC)*, conforme preconiza a Resolução CNE/CP no 3/2002 de 08 de dezembro 2002 e ODP vigente.
+
+=== Estágio Curricular
+
+O Curso poderá ter Estágio Curricular Supervisionado opcional, nos moldes estabelecidos pela ODP vigente, com uma carga horária mínima de 200 horas, podendo o estudante
+iniciar seu Estágio Curricular Supervisionado a partir do segundo semestre.
+
+=== Atividades Complementares
+
+As Atividades Complementares terão carga horária mínima de 120 horas e poderão ser realizadas, para fins de cômputo, a partir da matrícula no primeiro período do curso, conforme trâmites previstos no Regulamento de Atividades Complementares dos Cursos de Graduação Presenciais do IFTO.
+
+== RENOVAÇÃO DA MATRÍCULA
+
+Art. 78. A renovação da matrícula é a manifestação de interesse do estudante em manter o vínculo com o IFTO, cursando o semestre seguinte de seu curso, logo é obrigatória.
+
+§ 1o Durante o período de renovação de matrícula os estudantes deverão requerer vínculo aos componentes curriculares que desejarem cursar.
+
+§ 2o O estudante poderá escolher componentes curriculares do seu curso desde que obedeça aos pré-requisitos necessários e à grade curricular de cada curso.
+
+Art. 79. Será permitido ao estudante a matrícula na mesma disciplina ou correlata de outro curso de graduação do IFTO, sujeito à ordem de prioridade de renovação de matrícula estabelecida neste regulamento, solicitando posteriormente o Aproveitamento de Estudos.
+
+Parágrafo único. Fica sob a responsabilidade do estudante obter a confirmação de sua matrícula.
+
+Art. 85. No procedimento da renovação de matrícula, respeitando-se todos os pré-requisitos estabelecidos na grade curricular do curso, terão prioridade, pela ordem:
+
+I – estudantes do curso, do turno e do período a que pertence a disciplina, ordenados pelo maior índice de aproveitamento;
+
+II – estudantes formandos do curso, ordenados pelo maior índice de aproveitamento;
+
+III – estudantes do curso e do turno, em disciplina a cursar, ordenados pelo maior índice de aproveitamento;
+
+IV – estudantes do curso e de outro turno e do período a que pertence a disciplina, ordenados pelo maior índice de aproveitamento;
+
+V – estudantes do curso e de outro turno, em disciplina a cursar, ordenados pelo maior índice de aproveitamento;
+
+VI – estudantes do curso e do turno em adiantamento na disciplina, respeitados os pré-requisitos, ordenados pelo maior índice de aproveitamento;
+
+VII – estudantes do curso e de outro turno em adiantamento de disciplina, respeitados os pré- requisitos, ordenados pelo maior índice de aproveitamento;
+
+VIII – estudantes de outros cursos de graduação, do mesmo campus, aos quais a disciplina integre o currículo, cujas disciplinas estejam classificadas como equivalentes no Sistema Integrado de Gestão Acadêmica, ordenados pelo maior índice de aproveitamento;
+
+IX – estudantes de curso de graduação aos quais a disciplina integre o currículo, de outros campi do IFTO, ordenados pelo maior índice de aproveitamento;
+
+X – estudantes dos cursos de graduação do mesmo campus e que desejam ser ouvintes,  ordenados pelo maior índice de aproveitamento; e
+
+XI – estudantes de curso de graduação de outros campi do IFTO, e que desejam ser ouvintes, ordenados pelo maior índice de aproveitamento.
+
+Art. 81. O estudante que não conseguir se matricular em componente curricular no semestre letivo terá 15 (quinze) dias úteis, após o início do semestre letivo, para regularizar a situação, condicionado à existência de vagas, ao tempo máximo concedido para integralização curricular e submetido à adaptação da estrutura curricular vigente.
+
+Art. 82. O IFTO poderá não oferecer componentes curriculares ou mesmo cancelar sua oferta caso o número de candidatos à matrícula em tais componentes curriculares seja inferior a 5 (cinco) ou a critério da instituição, em ambos os casos mediante justificativa e autorização da Direção/Gerência de Ensino do campus.
+
+== DO REINGRESSO
+
+Art. 117. O reingresso é facultado a estudantes de cursos de graduação do IFTO que se enquadrem nas seguintes situações:
+
+I – estejam com status evadido, para o mesmo curso; ou
+
+II – estejam com status desligado, para o mesmo curso.
+
+§ 1 o Ao estudante que reingressar nos moldes do inciso II, será atribuído um novo número de matrícula.
+
+§ 2 o Ao estudante que reingressar nos moldes do inciso I, será dada continuidade na contagem do tempo para a integralização do curso.
+
+§ 3 o Ao estudante que reingressar nos moldes do inciso II, será dada nova contagem do tempo para a integralização curricular.
+
+§ 4 o O estudante que reingressar no IFTO será regulado pela estrutura curricular vigente ofertada pelo curso.
+
+== DOS TRANCAMENTOS, DO DESLIGAMENTO E DO EDITAL PÚBLICO DE NOTIFICAÇÃO
+
+Art. 122. Entende-se por Trancamento de Matrícula a suspensão de todas as atividades acadêmicas e componentes curriculares, requerida pelo estudante regularmente matriculado, sem perda do vínculo com a instituição e do direito à vaga, durante período postulado pelo estudante.
+
+Art. 123. O trancamento de matrícula deverá ser requerido pelo próprio estudante ou por seu representante legal...
+
+§ 2o O estudante só poderá trancar a matrícula por até 4 (quatro) semestres consecutivos ou alternados, durante todo o curso, desde que o tempo não ultrapasse o limite máximo para a integralização do curso.
+
+§ 3o Não será autorizado o trancamento de matrícula no primeiro semestre do curso, exceto nos casos previstos neste regulamento (regime de Atividades Acompanhadas).
+
+== DOS TRANCAMENTOS, DO DESLIGAMENTO E DO EDITAL PÚBLICO DE NOTIFICAÇÃO
+
+§ 4o O estudante que deixar de requerer a renovação de matrícula ao término do prazo em que foi solicitado o trancamento, será caracterizado como evadido.
+
+Art. 128. O desligamento da matrícula será efetuado somente após o lançamento de Edital Público de Notificação, para os seguintes casos:
+
+I – quando o estudante deixar de requerer a renovação de matrícula no período estabelecido pelo calendário escolar/acadêmico;
+
+II – mediante verificação de que o estudante está matriculado em outro curso de mesmo nível no IFTO ou em outra Instituição de Ensino Superior – IES Pública, conforme Lei n.o 12.089, de 11 de novembro de 2009 e disposições deste regulamento;
+
+III – não conseguiu concluir o curso no prazo máximo integralização do curso previsto neste regulamento; e/ou de
+
+IV – não concluiu o curso, em caso de já ter obtido a concessão de prorrogação do prazo máximo de integralização.
+
+§ 1o Caberá à Direção/Gerência de Ensino do campus gerar um relatório de estudantes irregulares após transcorrido o prazo de tramitação do que se encontra disposto no art. 81 deste regulamento e providenciar o lançamento do Edital Público de Notificação dentro
+do semestre letivo vigente. 
+
+§ 4o A manifestação do estudante deve ser acompanhada de documentos que comprovem os fatos alegados e a análise caberá ao Coordenador do Curso, sendo ouvido o Colegiado de Curso em caso de dúvida.
+
+§ 5o Não havendo manifestação do estudante este terá sua matrícula desligada.
+
+§ 6o O Edital Público de Notificação deve ser publicado na página eletrônica do campus e nos murais da Coordenação do Cursos de graduação envolvido.
+
+== DA DILAÇÃO DO PRAZO
+
+Art. 129. O estudante terá direito à solicitação de dilação do prazo máximo de integralização curricular, quando:
+
+I – for portador de deficiências físicas, sensoriais ou afecções que importem em limitação da capacidade de aprendizagem, devidamente comprovadas mediante a apresentação de laudo
+médico;
+
+II – cumpriu, com aprovação, no mínimo 80% (oitenta por cento) do total dos componentes curriculares exigidos para integralização fixada no PPC; ou
+
+III – apenas lhe falte cumprir o Estágio Curricular Supervisionado ou Trabalho de Conclusão de Curso ou Atividades Complementares.
+
+§ 1o O prazo de dilação não excederá a 2 (dois) semestres letivos ou 1 (um) ano letivo.
+
+§ 2o A dilação de prazo poderá ser concedida uma única vez.
+
+§ 3o Durante o período de dilação do prazo concedido, o estudante não poderá efetuar trancamento de matrícula.
+
+== DAS ATIVIDADES COMPLEMENTARES
+
+Art. 233. Entende-se por atividades complementares o conjunto de atividades de atualização, relacionamento com a realidade social, econômica e cultural, diversificação, flexibilização, interação com o mundo do trabalho e complementação de formação profissional que abordem temas correlatos à área de cada curso de graduação.
+
+§1o O Colegiado de Curso designará o “professor supervisor” responsável pela condução das Atividades Complementares e também definirá, com o acordo dado pela gestão máxima de ensino,
+a carga horária para o desempenho das atividades pertinentes a essa função, observando o disposto no Regulamento dos regimes de trabalho, suas alterações e as atribuições dos professores do ensino básico, técnico e tecnológico do IFTO.
+
+O PPC de Sistemas para Internet organiza as Atividades Complementares num tempo mínimo de 120 horas, nos grupos de Atividades de Ensino, Atividades de Pesquisa, Atividades de Extensão e Atividades Socioculturais conforme apresentado a seguir.
+
+.Inserir usuário e senha
+image::atividades-complementares.png[width=700,height=600]
+
+== Estágio Curricular Supervisionado
+
+No curso Superior de Tecnologia em Sistemas para Internet, o Estágio Curricular Supervisionado é um componente curricular não obrigatório. Dessa maneira, não é requisito para a obtenção do diploma. No entanto, quando optado pelo estudante, terá uma carga
+horária mínima de 200 horas e passará a ser regulamentado pelas mesmas normas previstas pela ODP vigente, aplicadas ao Estágio Curricular Supervisionado Obrigatório. Assim, para que seja considerado válido, ele deverá estar em consonância com o perfil profissional do egresso, e deverá manter uma correspondência com os conhecimentos teórico-práticos adquiridos pelo acadêmico no decorrer do curso.
+
+O registro do estágio deverá ser efetuado junto da Coordenação de Integração Serviço Empresa-Escola (CISEE) a partir do 2o semestre, desde que o estudante já tenha efetivado sua 50matrícula em pelo menos 01 (uma) disciplina do referido semestre.

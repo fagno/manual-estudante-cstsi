@@ -37,6 +37,8 @@ endif::[]
 
 = Manual do Estudante - CST em Sistemas para Internet
 
+== COORDENADOR 
+
 Coordenador(a): Fagno Alves Fonseca
 
 E-mail: csint.palmas@ifto.edu.br
@@ -77,9 +79,10 @@ Google Classroom é um sistema de gerenciamento de conteúdo para escolas que pr
 
 video::1p84Mlkwiww[youtube,width=640,height=480]
 
-A seguir é apresentado o código de acesso as disciplinas para o semestre 2021/1.
+=== Código das Turmas Google Classroom - Semestre 2021/2
 
-...
+//A seguir é apresentado o código de acesso as disciplinas para o semestre 2021/1.
+IMPORTANT: Horário 2021/2 em construção!
 
 == MOODLE MOBILE
 
@@ -159,6 +162,43 @@ IMPORTANT: Aulas com duração de 45 minutos.
 | *TURNO* | *ENTRADA* | *INTERVALO* | *SAÍDA*
 |MATUTINO| 08:00hs | 09:30hs às 09:50hs | 11:20hs
 |NOTURNO| 08:00hs | 20:30hs às 20:50hs | 22:20hs
+|===
+
+=== Professores
+
+|===
+|Professores	|Regime de Trabalho	|Formação e Titulação | E-mail
+|Ana Paula Alves Guimarães de Col |DE|	http://lattes.cnpq.br/0915823384180716 | ana.guimaraes@ifto.edu.br 
+|Bruno Viana Coutinho | DE | http://lattes.cnpq.br/6586768687592993 | bruno@ifto.edu.br
+|Carlos Henrique Correa Tolentino | 40h |	http://lattes.cnpq.br/1907057330069635 | chtolentino@ifto.edu.br
+|Claudio de Castro Monteiro |DE |	http://lattes.cnpq.br/1876078696481702 | ccm@ifto.edu.br
+|Edwardes Amaro Galhardo | | | edwardes.galhardo@ifto.edu.br
+|Elias Vidal Bezerra Junior |DE |	http://lattes.cnpq.br/0924790894673060 | eliasvidal@ifto.edu.br
+|Fagno Alves Fonseca | DE |	http://lattes.cnpq.br/4954012297055083 | fagno.fonseca@ifto.edu.br
+|Fernando Jorge Ebrahim Lima e Silva | 20h | http://lattes.cnpq.br/0305226462660633 | fernando@ifto.edu.br
+|Francisco das Chagas de Sousa | DE |	http://lattes.cnpq.br/9338042775726467 | francisco@ifto.edu.br
+|Francisco Willians Makoto Placido Hirano | DE |	http://lattes.cnpq.br/2947889678286765 | willians@ifto.edu.br
+|Gerson Pesente Focking| | | focking@ifto.edu.br 
+|Helder Cleber Almeida Pereira | DE |	http://lattes.cnpq.br/6436736415053685 | helder@ifto.edu.br
+|Leonardo Jose de Sales | 40h | 	http://lattes.cnpq.br/9570779890303542 | leosales@ifto.edu.br
+|Liliane Carvalho Felix Cavalcante |DE |	http://lattes.cnpq.br/2110871234431027 | liliane@ifto.edu.br
+|Madson Teles de Souza | DE |	http://lattes.cnpq.br/8817711554486322 | 
+|Manoel Campos da Silva Filho |DE |	http://lattes.cnpq.br/2972446785387264 | mcampos@ifto.edu.br 
+|Márcia Amaral Bertão |DE |	http://lattes.cnpq.br/0933821129002480 | 
+|Márlio Kléber Venâncio Gomes |DE |	http://lattes.cnpq.br/0733902836627660 | marlio@ifto.edu.br
+|Marinaldo Oliveira Santos | 20h |	http://lattes.cnpq.br/0682867616030788 | marinaldo@ifto.edu.br
+|Mauro Henrique Lima de Boni |DE|	http://lattes.cnpq.br/8562032086042101 | mauro@ifto.edu.br
+|Mayara Kaynne Fragoso Cabral | | |mayarakf@ifto.edu.br
+|Napoleão Póvoa Ribeiro Filho |40h|	http://lattes.cnpq.br/3384664312366751 | napoleao@ifto.edu.br
+|Paulo da Silva Paz Neto | | | paulopaz@ifto.edu.br
+|Roberta Alehandra Prados Nobre | | | roberta.nobre@ifto.edu.br
+|Rodrigo Luiz dos Santos | 40h|	http://lattes.cnpq.br/4107094489289650 | rodrigosantos@ifto.edu.br
+|Simone Dutra Martins Guarda |40h |	http://lattes.cnpq.br/0399290478815423 | simonedmg@ifto.edu.br
+|Thiago Guimarães Tavares |DE |	http://lattes.cnpq.br/6682516951902701 | thiagogmta@ifto.edu.br
+|Vinícius de Miranda Rios |DE |	http://lattes.cnpq.br/9570879418155544 | vinicius.rios@ifto.edu.br
+|Vinicius Istofel Oliveira |DE |	http://lattes.cnpq.br/0915355177254477 | viniciusoliveira@ifto.edu.br
+|Vinícius Oliveira Costa |DE |	http://lattes.cnpq.br/5737135795484314 | vinicius@ifto.edu.br
+|Wilson Wolf Costa |20h |	http://lattes.cnpq.br/4641095971291235 | wcosta@ifto.edu.br
 |===
 
 === Integralização Curricular
@@ -293,7 +333,7 @@ O PPC de Sistemas para Internet organiza as Atividades Complementares num tempo 
 .Inserir usuário e senha
 image::atividades-complementares.png[width=700,height=600]
 
-== Estágio Curricular Supervisionado
+== ESTÁGIO CURRICULAR SUPERVISIONADO 
 
 No curso Superior de Tecnologia em Sistemas para Internet, o Estágio Curricular Supervisionado é um componente curricular não obrigatório. Dessa maneira, não é requisito para a obtenção do diploma. No entanto, quando optado pelo estudante, terá uma carga
 horária mínima de 200 horas e passará a ser regulamentado pelas mesmas normas previstas pela ODP vigente, aplicadas ao Estágio Curricular Supervisionado Obrigatório. Assim, para que seja considerado válido, ele deverá estar em consonância com o perfil profissional do egresso, e deverá manter uma correspondência com os conhecimentos teórico-práticos adquiridos pelo acadêmico no decorrer do curso.

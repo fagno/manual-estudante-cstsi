@@ -45,7 +45,28 @@ E-mail: csint.palmas@ifto.edu.br
 
 Telefone: (63) 3236 4037 (ATENDIMENTO POR E-MAIL DURANTE O PERÍODO DE ENSINO REMOTO)
 
-== SIGA
+== SEMESTRE 2021/2
+
+=== Hoário Turmas 2021/2
+
+Acesse o horário de aulas do CST em Sistemas para Internet no semestre 2021/2.
+
+IMPORTANT: Horário 2021/2 em construção!
+
+//- https://drive.google.com/file/d/1fv0F9n30_vD7i_Z9meCGcjGXoheM4lTw/view?usp=sharing[Horário Turno Matutino]
+//- https://drive.google.com/file/d/1tDWEZbN9FAHs0Ffpf2Eep8W1c5JSUWJX/view?usp=sharing[Horário Turno Noturno]
+
+=== Código de Turmas Google Classroom
+
+//A seguir é apresentado o código de acesso as disciplinas para o semestre 2021/2.
+IMPORTANT: Horário 2021/2 em construção!
+
+=== Calendário Acadêmico 2021
+
+Neste tópico são divulgados os http://portal.ifto.edu.br/palmas/centrais-de-conteudos/documentos/calendarios-academicos
+[calendários acadêmicos] dos cursos do Campus Palmas.
+
+== SISTEMA INTEGRADO DE GESTÃO ACADÊMICA - SIGA
 
 As principais atividades da vida acadêmica dos estudantes do curso superior de Sistemas para Internet são registradas no Sistema de Informação e Gestão Acadêmica https://sigaaluno.ifto.edu.br/sigaepct-aluno-web/login.jsf[SIGA]. 
 
@@ -78,11 +99,6 @@ Outro vídeos podem ser encontrados no tutorial Moodle disponível no https://fa
 Google Classroom é um sistema de gerenciamento de conteúdo para escolas que procuram simplificar a criação, a distribuição e a avaliação de trabalhos. Ele é um recurso do Google Apps para a área de educação.
 
 video::1p84Mlkwiww[youtube,width=640,height=480]
-
-=== Código das Turmas Google Classroom - Semestre 2021/2
-
-//A seguir é apresentado o código de acesso as disciplinas para o semestre 2021/1.
-IMPORTANT: Horário 2021/2 em construção!
 
 == MOODLE MOBILE
 
@@ -255,6 +271,109 @@ Art. 81. O estudante que não conseguir se matricular em componente curricular n
 
 Art. 82. O IFTO poderá não oferecer componentes curriculares ou mesmo cancelar sua oferta caso o número de candidatos à matrícula em tais componentes curriculares seja inferior a 5 (cinco) ou a critério da instituição, em ambos os casos mediante justificativa e autorização da Direção/Gerência de Ensino do campus.
 
+== DO APROVEITAMENTO DE ESTUDOS
+
+Art. 135. Aproveitamento de Estudos é a inclusão, no histórico escolar do estudante, de créditos cumpridos em curso de graduação, legalmente reconhecido, respeitando os prazos previstos para
+requerimento no calendário escolar/acadêmico.
+
+§ 1o O aproveitamento de estudos não implica o aproveitamento automático de componente curricular considerado pré-requisito no projeto pedagógico do curso.
+
+§ 2o O aproveitamento do componente curricular de Atividades Complementares seguirá ao estabelecido neste regulamento, em capítulo específico.
+
+§ 3o Não serão realizados aproveitamento dos componentes curriculares de TCC e Estágio Curricular Supervisionado.
+
+Art. 136. Poderá ser concedido aproveitamento de estudos de disciplina mediante requerimento dirigido ao Coordenador de Curso, protocolado pelo próprio estudante ou por seu representante
+legal, com os seguintes documentos (cópia autenticada ou cópia acompanhada do original), assinados pelo gestor máximo da instituição de origem ou por quem este delegar, emitidos em
+papel timbrado e carimbado:
+
+I – histórico escolar (parcial/final), contendo as notas, carga horária e frequência das disciplinas
+cursadas;
+
+II – ementa e planos de ensino das disciplinas desenvolvidas na instituição de origem; e
+
+III – documento de autorização ou reconhecimento do curso de origem.
+
+§ 1o O estudante deverá indicar no processo a(s) disciplina(s) que deseja aproveitar com os seus correspondentes já cursados.
+
+§ 2o A disciplina a ser aproveitada deve ser analisada pelo professor responsável ou, na falta deste, por um professor competente, mediante análise detalhada dos programas desenvolvidos, à
+luz do perfil profissional de conclusão do curso, respeitando os mínimos de 75% (setenta e cinco por cento) de similaridade de conteúdos e 75% (setenta e cinco por cento) da carga horária da
+disciplina do curso pretendido.
+
+== DO EXAME DE PROFICIÊNCIA
+
+Art. 148. O estudante de curso de graduação do IFTO que comprove domínio dos conhecimentos de determinada disciplina poderá requerer à Coordenação do Curso, via protocolo no setor
+responsável do respectivo campus, Exame de Proficiência, respeitando os prazos previstos no calendário escolar/acadêmico.
+
+§ 1o O estudante deverá apresentar justificativa documentada para comprovar a fonte do conhecimento adquirido.
+
+§ 2o Após análise dos documentos, caberá ao Coordenador do Curso o deferimento, ou não, do requerimento.
+
+§ 3o Somente será aceita solicitação de Exame de Proficiência uma única vez para cada disciplina.
+
+§ 4o O caput deste artigo não se aplica à disciplina em que o estudante tenha sido reprovado.
+
+§ 5o Não se aplica o disposto no caput do artigo aos componentes curriculares de TCC, PCC (quando tratado como núcleo na grade curricular do curso), estágio curricular supervisionado e
+Atividades Complementares.
+
+Art. 149. O Exame de Proficiência será efetuado por meio de, no mínimo, uma avaliação teórico/prática, podendo ainda contar com outros instrumentos pertinentes da prática pedagógica,
+que serão arquivados na pasta do estudante no setor de registros escolares/acadêmicos.
+
+§ 1o O Exame de Proficiência poderá ser aplicado e/ou elaborado por professor da área/eixo tecnológico de conhecimento que ministre a disciplina, respeitando as datas previstas no
+calendário escolar/acadêmico.
+ 
+§ 2o Caberá ao Coordenador de Curso encaminhar o processo ao setor de registros escolares/acadêmicos para os devidos encaminhamentos.
+
+Art. 150. Será dispensado de cursar a disciplina, mediante o aproveitamento no Exame de Proficiência, o estudante que alcançar a nota mínima para aprovação estabelecida neste
+regulamento.
+
+Parágrafo único. Será atribuído a frequência de 75% (setenta e cinco por cento) para fins de cálculo do Índice de Aproveitamento.
+
+Art. 151. O estudante que obtiver aprovação em Exame de Proficiência poderá incluir matrículas em disciplinas do curso respeitando os pré-requisitos estabelecidos, conforme as datas previstas
+no calendário escolar/acadêmico.
+
+Art. 152. Aos estudantes do primeiro período do curso, condicionado à existência de vagas, será permitido o adiantamento de disciplinas para o caso em que tenha alguma disciplina aproveitada
+ou aprovada em Exame de Proficiência.
+
+Art. 153. Caso seja necessário, poderá ser composta Banca Examinadora, formada por professores do curso da mesma disciplina ou afim, designada pelo Coordenador de Curso.
+
+== DA MUDANÇA DE TURNO
+
+Art. 154. A solicitação de mudança de turno para o mesmo curso deve ser encaminhada ao Coordenador de Curso, via setor de protocolo ou setor designado pela Direção-geral do campus,
+mediante justificativa comprovada, por estudantes que, por ordem de prioridade:
+
+I – tenham maior dificuldade de frequentar as aulas por problema de saúde;
+
+II – tenham passado a exercer atividades profissionais no turno em que estejam matriculados;
+
+III – residam em local inconveniente ou distante do campus para o turno em que estão matriculados;
+
+IV – tenham sido incorporados ao serviço militar obrigatório; ou
+
+V – apresentem na justificativa motivo(s) considerado(s) relevante(s) pela Coordenação de Curso.
+
+§ 1o Os processos protocolados deverão conter, além da justificativa, a seguinte documentação:
+
+I – declaração do setor de registros escolares/acadêmicos, assinada por responsável competente da instituição, em papel timbrado ou carimbado, informando qual o período letivo em que o
+estudante se encontra no momento da requisição do processo;
+
+II – histórico escolar parcial do estudante ou documento similar, que contenha:
+
+a) nota de cada componente curricular concluído (aprovados e reprovados);
+
+b) frequência de cada componente curricular concluído (aprovados e reprovados) em horas-aula;
+
+c) carga horária de cada componente curricular concluído (aprovados e reprovados) em horas-aula; e
+
+d) classificação do estudante no Processo Seletivo.
+
+§ 2o A solicitação de mudança de turno para o mesmo curso é prevista no calendário escolar/acadêmico.
+
+Art. 155. A mudança de turno está condicionada à existência de vaga e oferta do curso em outro turno.
+
+Art. 156. A solicitação de mudança de turno para o mesmo curso somente será concedida a partir do segundo semestre da matrícula.
+
+Parágrafo único. Será permitida, somente uma vez por estudante, a possibilidade de mudança de turno sob a forma de permuta ou havendo disponibilidade de vaga.
+
 == DO REINGRESSO
 
 Art. 117. O reingresso é facultado a estudantes de cursos de graduação do IFTO que se enquadrem nas seguintes situações:
@@ -281,9 +400,15 @@ Art. 123. O trancamento de matrícula deverá ser requerido pelo próprio estuda
 
 § 3o Não será autorizado o trancamento de matrícula no primeiro semestre do curso, exceto nos casos previstos neste regulamento (regime de Atividades Acompanhadas).
 
-== DOS TRANCAMENTOS, DO DESLIGAMENTO E DO EDITAL PÚBLICO DE NOTIFICAÇÃO
-
 § 4o O estudante que deixar de requerer a renovação de matrícula ao término do prazo em que foi solicitado o trancamento, será caracterizado como evadido.
+
+Art. 125. Entende-se por Trancamento de Componente Curricular a suspensão da atividade acadêmica prevista no(s) componente(s) curricular(es) em que o estudante está matriculado.
+
+§ 1o É facultado ao estudante solicitar o trancamento de componente curricular a partir do primeiro período de matrícula no curso, conforme calendário escolar/acadêmico.
+
+§ 2o Para estudantes do primeiro período de matrícula no curso, somente poderão proceder o trancamento de até 2 (dois) componentes curriculares.
+
+§ 3 o O retorno do estudante após o trancamento fica condicionado à existência de vagas nos componentes curriculares por ele requeridos.
 
 Art. 128. O desligamento da matrícula será efetuado somente após o lançamento de Edital Público de Notificação, para os seguintes casos:
 

@@ -45,6 +45,18 @@ E-mail: csint.palmas@ifto.edu.br
 
 Telefone: (63) 3236 4037 (ATENDIMENTO POR E-MAIL DURANTE O PERÍODO DE ENSINO REMOTO)
 
+== COMO ABRIR REQUERIMENTO
+
+IMPORTANT: Acadêmicos do Campus Palmas podem solicitar a abertura de processo online https://forms.gle/q29rbBmGKWH5gM96A[neste link].
+
+Preencha corretamente seus dados, sua solicitação e anexe os documentos conforme a solicitação e de acordo com o Edital (caso esteja participando de algum deles).
+
+NOTE: E-MAIL: Cai.palmas@ifto.edu.br
+
+NOTE: WhatsApp atendimento integrado: 3236 4013
+
+Contato para dúvidas sobre cadastro no SIGA ou e-mail.
+
 == SEMESTRE 2021/2
 
 === Hoário Turmas 2021/2
@@ -63,10 +75,11 @@ IMPORTANT: Horário 2021/2 em construção!
 
 === Calendário Acadêmico 2021
 
-Neste tópico são divulgados os http://portal.ifto.edu.br/palmas/centrais-de-conteudos/documentos/calendarios-academicos
-[calendários acadêmicos] dos cursos do Campus Palmas.
+Neste link você encontra os http://portal.ifto.edu.br/palmas/centrais-de-conteudos/documentos/calendarios-academicos[calendários acadêmicos] dos cursos do Campus Palmas.
 
-== SISTEMA INTEGRADO DE GESTÃO ACADÊMICA - SIGA
+== ACESSO A SISTEMAS
+
+=== Sistema Integrado de Gestão Acadêmica - SIGA
 
 As principais atividades da vida acadêmica dos estudantes do curso superior de Sistemas para Internet são registradas no Sistema de Informação e Gestão Acadêmica https://sigaaluno.ifto.edu.br/sigaepct-aluno-web/login.jsf[SIGA]. 
 
@@ -76,13 +89,11 @@ Primeiro Acesso/Esqueceu sua Senha do https://sigaaluno.ifto.edu.br/sigaepct-alu
 
 video::LT5wbZNvnKc[youtube,width=640,height=480]
 
-== MOODLE E GOOGLE CLASSROOM 
-
-A instituição adota duas plataformas como sala virtual. Alguns professores utilizam o Moodle e outros professores o Classroom. A seguir é apresentado como efetuar acesso as disciplinas em cada uma das plataformas.
-
 === Moodle
 
-Para ter acesso a plataforma MOODLE é necessário que os alunos estejam matriculados.
+A instituição adota duas plataformas como sala virtual. Alguns professores utilizam o Moodle e outros professores o Classroom. 
+
+Para ter acesso a http://moodlepalmas.ifto.edu.br/[plataforma MOODLE] é necessário que os alunos estejam matriculados.
 
 WARNING: E-mail suporte Moodle: moodle.palmas@ifto.edu.br.
 
@@ -100,7 +111,7 @@ Google Classroom é um sistema de gerenciamento de conteúdo para escolas que pr
 
 video::1p84Mlkwiww[youtube,width=640,height=480]
 
-== MOODLE MOBILE
+=== Moodle Mobile
 
 Vídeo de apresentação: https://www.youtube.com/watch?v=6baJWsoH2bI
 
@@ -123,21 +134,15 @@ image::moodle-mobile-img1.png[width=400,height=300]
 .Inserir usuário e senha
 image::moodle-mobile-img2.png[width=400,height=300]
 
-== DOCUMENTOS
+== SOBRE O CURSO
+
+=== Projeto Pedagógico do Curso - PPC
 
 Grade Curricular VIGENTE: http://portal.ifto.edu.br/ifto/colegiados/consup/documentos-aprovados/ppc/campus-palmas/tecnologia-em-sistemas-para-internet[Projeto Pedagógico do Curso - PPC]
 
 Grade Curricular ANTIGA (ATIVA): http://portal.ifto.edu.br/ifto/colegiados/consup/documentos-aprovados/ppc/campus-palmas/tecnologia-em-sistemas-para-internet/ppc-tecnologia-sistemas-internet-campus-palmas.pdf/@@download/file/ppc-tecnologia-sistemas-internet-campus-palmas.pdf[Projeto Pedagógico do Curso - PPC]
 
-== COMO ABRIR REQUERIMENTO
-
-IMPORTANT: Acadêmicos do Campus Palmas podem solicitar a abertura de processo online https://forms.gle/q29rbBmGKWH5gM96A[neste link].
-
-Acadêmicos do IFTO – Campus Palmas podem solicitar a abertura de processo via formulário online disponível https://forms.gle/q29rbBmGKWH5gM96A[neste link].
-
-Preencha corretamente seus dados, sua solicitação e anexe os documentos conforme a solicitação e de acordo com o Edital (caso esteja participando de algum deles).
-
-== SOBRE O CURSO
+=== Sistemas para Internet 
 
 O curso visa formar profissionais capazes de desenvolver competências associadas à gerência e ao desenvolvimento de sistemas para Internet. Propõe mesclar conhecimentos teóricos e atividades práticas, com foco nas técnicas, metodologias apropriadas, e linguagens
 aplicadas às atividades de concepção, especificação, projeto, implementação, avaliação, suporte e manutenção de sistemas para Internet, ao desenvolvimento de Websites e à
@@ -222,14 +227,28 @@ IMPORTANT: Aulas com duração de 45 minutos.
 O período para integralização curricular do curso é de no mínimo 06 (seis) semestres letivos, e no máximo 12 semestres letivos, *não havendo a obrigatoriedade de Trabalho
 de Conclusão de Curso (TCC)*, conforme preconiza a Resolução CNE/CP no 3/2002 de 08 de dezembro 2002 e ODP vigente.
 
-=== Estágio Curricular
+== DAS ATIVIDADES COMPLEMENTARES
 
-O Curso poderá ter Estágio Curricular Supervisionado opcional, nos moldes estabelecidos pela ODP vigente, com uma carga horária mínima de 200 horas, podendo o estudante
-iniciar seu Estágio Curricular Supervisionado a partir do segundo semestre.
-
-=== Atividades Complementares
+IMPORTANT: Contato do professor supervisor de atividades complementares: vinicius@ifto.edu.br
 
 As Atividades Complementares terão carga horária mínima de 120 horas e poderão ser realizadas, para fins de cômputo, a partir da matrícula no primeiro período do curso, conforme trâmites previstos no Regulamento de Atividades Complementares dos Cursos de Graduação Presenciais do IFTO.
+
+Art. 233. Entende-se por atividades complementares o conjunto de atividades de atualização, relacionamento com a realidade social, econômica e cultural, diversificação, flexibilização, interação com o mundo do trabalho e complementação de formação profissional que abordem temas correlatos à área de cada curso de graduação.
+
+§1o O Colegiado de Curso designará o “professor supervisor” responsável pela condução das Atividades Complementares e também definirá, com o acordo dado pela gestão máxima de ensino,
+a carga horária para o desempenho das atividades pertinentes a essa função, observando o disposto no Regulamento dos regimes de trabalho, suas alterações e as atribuições dos professores do ensino básico, técnico e tecnológico do IFTO.
+
+O PPC de Sistemas para Internet organiza as Atividades Complementares num tempo mínimo de 120 horas, nos grupos de Atividades de Ensino, Atividades de Pesquisa, Atividades de Extensão e Atividades Socioculturais conforme apresentado a seguir.
+
+image::atividades-complementares.png[width=700,height=600]
+
+== ESTÁGIO CURRICULAR SUPERVISIONADO 
+
+No curso Superior de Tecnologia em Sistemas para Internet, o Estágio Curricular Supervisionado é um componente curricular não obrigatório. Dessa maneira, não é requisito para a obtenção do diploma. No entanto, quando optado pelo estudante, terá uma carga
+horária mínima de 200 horas e passará a ser regulamentado pelas mesmas normas previstas pela ODP vigente, aplicadas ao Estágio Curricular Supervisionado Obrigatório. Assim, para que seja considerado válido, ele deverá estar em consonância com o perfil profissional do egresso, e deverá manter uma correspondência com os conhecimentos teórico-práticos adquiridos pelo acadêmico no decorrer do curso.
+
+O registro do estágio deverá ser efetuado junto da Coordenação de Integração Serviço Empresa-Escola (CISEE) a partir do 2o semestre, desde que o estudante já tenha efetivado sua 50matrícula em pelo menos 01 (uma) disciplina do referido semestre.
+
 
 == RENOVAÇÃO DA MATRÍCULA
 
@@ -446,21 +465,3 @@ III – apenas lhe falte cumprir o Estágio Curricular Supervisionado ou Trabalh
 
 § 3o Durante o período de dilação do prazo concedido, o estudante não poderá efetuar trancamento de matrícula.
 
-== DAS ATIVIDADES COMPLEMENTARES
-
-Art. 233. Entende-se por atividades complementares o conjunto de atividades de atualização, relacionamento com a realidade social, econômica e cultural, diversificação, flexibilização, interação com o mundo do trabalho e complementação de formação profissional que abordem temas correlatos à área de cada curso de graduação.
-
-§1o O Colegiado de Curso designará o “professor supervisor” responsável pela condução das Atividades Complementares e também definirá, com o acordo dado pela gestão máxima de ensino,
-a carga horária para o desempenho das atividades pertinentes a essa função, observando o disposto no Regulamento dos regimes de trabalho, suas alterações e as atribuições dos professores do ensino básico, técnico e tecnológico do IFTO.
-
-O PPC de Sistemas para Internet organiza as Atividades Complementares num tempo mínimo de 120 horas, nos grupos de Atividades de Ensino, Atividades de Pesquisa, Atividades de Extensão e Atividades Socioculturais conforme apresentado a seguir.
-
-.Inserir usuário e senha
-image::atividades-complementares.png[width=700,height=600]
-
-== ESTÁGIO CURRICULAR SUPERVISIONADO 
-
-No curso Superior de Tecnologia em Sistemas para Internet, o Estágio Curricular Supervisionado é um componente curricular não obrigatório. Dessa maneira, não é requisito para a obtenção do diploma. No entanto, quando optado pelo estudante, terá uma carga
-horária mínima de 200 horas e passará a ser regulamentado pelas mesmas normas previstas pela ODP vigente, aplicadas ao Estágio Curricular Supervisionado Obrigatório. Assim, para que seja considerado válido, ele deverá estar em consonância com o perfil profissional do egresso, e deverá manter uma correspondência com os conhecimentos teórico-práticos adquiridos pelo acadêmico no decorrer do curso.
-
-O registro do estágio deverá ser efetuado junto da Coordenação de Integração Serviço Empresa-Escola (CISEE) a partir do 2o semestre, desde que o estudante já tenha efetivado sua 50matrícula em pelo menos 01 (uma) disciplina do referido semestre.

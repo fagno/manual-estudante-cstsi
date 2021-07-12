@@ -51,11 +51,9 @@ IMPORTANT: Acadêmicos do Campus Palmas podem solicitar a abertura de processo o
 
 Preencha corretamente seus dados, sua solicitação e anexe os documentos conforme a solicitação e de acordo com o Edital (caso esteja participando de algum deles).
 
-NOTE: contato por e-mail ao atendimento integrado: Cai.palmas@ifto.edu.br
+NOTE: contato por e-mail ao atendimento integrado: cai.palmas@ifto.edu.br
 
 NOTE: contato por WhatsApp ao atendimento integrado: 3236 4013
-
-Contato para dúvidas sobre cadastro no SIGA ou e-mail.
 
 == SEMESTRE 2021/2
 
@@ -63,10 +61,9 @@ Contato para dúvidas sobre cadastro no SIGA ou e-mail.
 
 Acesse o horário de aulas do CST em Sistemas para Internet no semestre 2021/2.
 
-IMPORTANT: Horário 2021/2 em construção!
+https://drive.google.com/file/d/1fv0F9n30_vD7i_Z9meCGcjGXoheM4lTw/view?usp=sharing[Horário Turno Matutino]
 
-//- https://drive.google.com/file/d/1fv0F9n30_vD7i_Z9meCGcjGXoheM4lTw/view?usp=sharing[Horário Turno Matutino]
-//- https://drive.google.com/file/d/1tDWEZbN9FAHs0Ffpf2Eep8W1c5JSUWJX/view?usp=sharing[Horário Turno Noturno]
+https://drive.google.com/file/d/19lMMAiIm7WqCYWRTRmTtb1RbJdXfhMsl/view?usp=sharing[Horário Turno Noturno]
 
 === Código de Turmas Google Classroom
 
@@ -202,7 +199,7 @@ IMPORTANT: Aulas com duração de 45 minutos.
 |Fagno Alves Fonseca |	http://lattes.cnpq.br/4954012297055083 | fagno.fonseca@ifto.edu.br
 |Fernando Jorge Ebrahim Lima e Silva | http://lattes.cnpq.br/0305226462660633 | fernando@ifto.edu.br
 |Francisco das Chagas de Sousa |	http://lattes.cnpq.br/9338042775726467 | francisco@ifto.edu.br
-|Francisco Willians Makoto Placido Hirano |	http://lattes.cnpq.br/2947889678286765 | willians@ifto.edu.br
+|Francisco Willians M. P. Hirano |	http://lattes.cnpq.br/2947889678286765 | willians@ifto.edu.br
 |Gerson Pesente Focking| http://lattes.cnpq.br/7255745251514223 | focking@ifto.edu.br 
 |Helder Cleber Almeida Pereira  |	http://lattes.cnpq.br/6436736415053685 | helder@ifto.edu.br
 |Leonardo Jose de Sales | 	http://lattes.cnpq.br/9570779890303542 | leosales@ifto.edu.br

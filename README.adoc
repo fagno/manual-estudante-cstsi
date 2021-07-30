@@ -67,8 +67,35 @@ https://drive.google.com/file/d/19lMMAiIm7WqCYWRTRmTtb1RbJdXfhMsl/view?usp=shari
 
 === Código de Turmas Google Classroom
 
-//A seguir é apresentado o código de acesso as disciplinas para o semestre 2021/2.
-IMPORTANT: Horário 2021/2 em construção!
+|===
+|PROFESSOR| DISCIPLINAS E CÓDIGOS
+|Cláudio Monteiro| 
+- Introdução à Conectividade (MATUTINO) - lukcfyd
+
+- Tendências Tecnológicas para o MercadO de TI (MATUTINO) - d22lzq6
+
+|Napoleao Ribeiro| 
+- Fundamentos de Redes de Computadores (MATUTINO) - i65j44k 
+
+- Introdução à Computação (MATUTINO) - nweueuz
+
+|Edwardes Galhardo| 
+
+- Infraestrutura para Sistemas Web (MATUTINO) - hcaxs2b 
+
+- Infraestrutura para Sistemas Web (NOTURNO) - 7lnodkb 
+
+|Ana Paula Guimarães| 
+
+- Programação para Dispositivos Móveis I (NOTURNO) - koili6w
+
+- Programação para Dispositivos Móveis II (MATUTINO) - 3y6737b 
+
+- Programação para Dispositivos Móveis II (NOTURNO) - m7aasfs 
+
+- Programação Orientada a Objetos (MATUTINO) - nkwwssf
+
+|===
 
 === Calendário Acadêmico 2021
 

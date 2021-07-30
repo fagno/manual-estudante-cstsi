@@ -57,7 +57,7 @@ NOTE: contato por WhatsApp ao atendimento integrado: 3236 4013
 
 == SEMESTRE 2021/2
 
-=== Hoário Turmas 2021/2
+=== Horário Turmas 2021/2
 
 Acesse o horário de aulas do CST em Sistemas para Internet no semestre 2021/2.
 
@@ -68,7 +68,7 @@ https://drive.google.com/file/d/19lMMAiIm7WqCYWRTRmTtb1RbJdXfhMsl/view?usp=shari
 === Código de Turmas Google Classroom
 
 |===
-|PROFESSOR| DISCIPLINAS E CÓDIGOS
+|*PROFESSOR*| *DISCIPLINAS E CÓDIGOS*
 |Cláudio Monteiro| 
 - Introdução à Conectividade (MATUTINO): lukcfyd
 

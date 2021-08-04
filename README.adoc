@@ -67,6 +67,8 @@ https://drive.google.com/file/d/19lMMAiIm7WqCYWRTRmTtb1RbJdXfhMsl/view?usp=shari
 
 === Código de Turmas Google Classroom
 
+A seguir é apresentado o código das turmas das disciplinas dos professores que utilizam o classroom.
+
 |===
 |*PROFESSOR*| *DISCIPLINAS E CÓDIGOS*
 |Cláudio Monteiro| 

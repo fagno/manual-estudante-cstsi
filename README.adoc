@@ -218,7 +218,7 @@ IMPORTANT: Aulas com duração de 45 minutos.
 |===
 | *TURNO* | *ENTRADA* | *INTERVALO* | *SAÍDA*
 |MATUTINO| 08:00hs | 09:30hs às 09:50hs | 11:20hs
-|NOTURNO| 08:00hs | 20:30hs às 20:50hs | 22:20hs
+|NOTURNO| 19:00hs | 20:30hs às 20:50hs | 22:20hs
 |===
 
 === Professores

@@ -61,9 +61,9 @@ NOTE: contato por WhatsApp ao atendimento integrado: 3236 4013
 
 Acesse o horário de aulas do CST em Sistemas para Internet no semestre 2021/2.
 
-https://drive.google.com/file/d/1fv0F9n30_vD7i_Z9meCGcjGXoheM4lTw/view?usp=sharing[Horário Turno Matutino]
+https://drive.google.com/file/d/1TJ3C4hSqC3jNeHwKD1H2kpO1SY-pqVR9/view?usp=sharing[Horário Turno Matutino]
 
-https://drive.google.com/file/d/19lMMAiIm7WqCYWRTRmTtb1RbJdXfhMsl/view?usp=sharing[Horário Turno Noturno]
+https://drive.google.com/file/d/168xqrWOadigxgYiZhEuajWw6qA4rrV52/view?usp=sharing[Horário Turno Noturno]
 
 === Código de Turmas Google Classroom
 
@@ -72,14 +72,14 @@ A seguir é apresentado o código das disciplinas dos professores que utilizam o
 |===
 |*PROFESSOR*| *DISCIPLINAS E CÓDIGOS*
 |Cláudio Monteiro| 
-- Introdução à Conectividade (MATUTINO): lukcfyd
+- Introdução à Conectividade (MATUTINO): kwlnyfe
 
-- Tendências Tecnológicas para o MercadO de TI (MATUTINO): d22lzq6
+- Tendências Tecnológicas para o MercadO de TI (MATUTINO): wzzlk5m
 
 |Napoleao Ribeiro| 
-- Fundamentos de Redes de Computadores (MATUTINO): i65j44k 
+- Fundamentos de Redes de Computadores (MATUTINO): rrr5xb3 
 
-- Introdução à Computação (MATUTINO): nweueuz
+- Introdução à Computação (MATUTINO): p2px6z
 
 |Edwardes Galhardo| 
 
@@ -89,19 +89,19 @@ A seguir é apresentado o código das disciplinas dos professores que utilizam o
 
 |Ana Paula Guimarães| 
 
-- Programação para Dispositivos Móveis I (NOTURNO): koili6w
+- Programação para Dispositivos Móveis I (NOTURNO): beizvo5
 
-- Programação para Dispositivos Móveis II (MATUTINO): 3y6737b 
+- Programação para Dispositivos Móveis II (MATUTINO): ainda não informado 
 
-- Programação para Dispositivos Móveis II (NOTURNO): m7aasfs 
+- Programação para Dispositivos Móveis II (NOTURNO): ainda não informado 
 
-- Programação Orientada a Objetos (MATUTINO): nkwwssf
+- Programação Orientada a Objetos (MATUTINO): ainda não informado
 
 |Marlio Kleber| 
 
-- Projeto de Interface Web (MATUTINO): oprj5f3
+- Projeto de Interface Web (MATUTINO): ainda não informado
 
-- Projeto de Interface Web (NOTURNO): 7hsp3k3
+- Projeto de Interface Web (NOTURNO): ainda não informado
 
 |===
 

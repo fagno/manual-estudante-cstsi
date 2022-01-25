@@ -49,7 +49,7 @@ Telefone: (63) 3236 4037 (ATENDIMENTO POR E-MAIL DURANTE O PERÍODO DE ENSINO RE
 
 Secretaria Acadêmica - SEAC - Campus Palmas.
 
-IMPORTANT: E-MAIL: seac.palmas@ifto.edu.br
+NOTE: E-MAIL: seac.palmas@ifto.edu.br
 
 == COMO ABRIR REQUERIMENTO
 
@@ -97,9 +97,9 @@ A seguir é apresentado o código das disciplinas dos professores que utilizam o
 
 - Programação para Dispositivos Móveis I (NOTURNO): beizvo5
 
-- Programação para Dispositivos Móveis II (MATUTINO): ainda não informado 
+- Programação para Dispositivos Móveis II (MATUTINO): qf5vg4r
 
-- Programação para Dispositivos Móveis II (NOTURNO): ainda não informado 
+- Programação para Dispositivos Móveis II (NOTURNO): dcsxdbd 
 
 - Programação Orientada a Objetos (NOTURNO): mkorryg
 
@@ -131,9 +131,9 @@ video::LT5wbZNvnKc[youtube,width=640,height=480]
 
 A instituição adota duas plataformas como sala virtual. Alguns professores utilizam o Moodle e outros professores o Classroom. 
 
-Para ter acesso a http://moodlepalmas.ifto.edu.br/[plataforma MOODLE] é necessário que os alunos estejam matriculados.
+Para ter acesso a http://moodle.ifto.edu.br/[plataforma MOODLE] é necessário que os alunos estejam matriculados.
 
-WARNING: E-mail suporte Moodle: moodle.palmas@ifto.edu.br.
+WARNING: Suporte: gti.palmas@ifto.edu.br ou pelo nosso Whatsapp (63) 3236-4016
 
 IMPORTANT: Os alunos devem utilizar os mesmos dados de acesso ao sistema acadêmico SIGA. No login devem utilizar o CPF (somente números) e sua senha pessoal.
 

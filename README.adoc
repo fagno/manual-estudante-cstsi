@@ -45,6 +45,12 @@ E-mail: csint.palmas@ifto.edu.br
 
 Telefone: (63) 3236 4037 (ATENDIMENTO POR E-MAIL DURANTE O PERÍODO DE ENSINO REMOTO)
 
+== CONTATO DA SECRETARIA ACADÊMICA
+
+Secretaria Acadêmica - SEAC - Campus Palmas.
+
+IMPORTANT: E-MAIL: seac.palmas@ifto.edu.br
+
 == COMO ABRIR REQUERIMENTO
 
 IMPORTANT: Acadêmicos do Campus Palmas podem solicitar a abertura de processo online https://forms.gle/q29rbBmGKWH5gM96A[neste link].
@@ -55,9 +61,9 @@ NOTE: contato por e-mail ao atendimento integrado: cai.palmas@ifto.edu.br
 
 NOTE: contato por WhatsApp ao atendimento integrado: 3236 4013
 
-== SEMESTRE 2021/2
+== SEMESTRE 2022/1
 
-=== Horário Turmas 2021/2
+=== Horário Turmas 2022/1
 
 Acesse o horário de aulas do CST em Sistemas para Internet no semestre 2021/2.
 
@@ -105,7 +111,7 @@ A seguir é apresentado o código das disciplinas dos professores que utilizam o
 
 |===
 
-=== Calendário Acadêmico 2021
+=== Calendário Acadêmico 2022
 
 Neste link você encontra os http://portal.ifto.edu.br/palmas/centrais-de-conteudos/documentos/calendarios-academicos[calendários acadêmicos] dos cursos do Campus Palmas.
 

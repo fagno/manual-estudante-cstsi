@@ -101,7 +101,7 @@ A seguir é apresentado o código das disciplinas dos professores que utilizam o
 
 - Programação para Dispositivos Móveis II (NOTURNO): ainda não informado 
 
-- Programação Orientada a Objetos (MATUTINO): ainda não informado
+- Programação Orientada a Objetos (NOTURNO): mkorryg
 
 |Marlio Kleber| 
 

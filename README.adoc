@@ -117,6 +117,8 @@ Neste link você encontra os http://portal.ifto.edu.br/palmas/centrais-de-conteu
 
 == ACESSO A SISTEMAS
 
+WARNING: Suporte: gti.palmas@ifto.edu.br ou pelo nosso Whatsapp (63) 3236-4016
+
 === Sistema Integrado de Gestão Acadêmica - SIGA
 
 As principais atividades da vida acadêmica dos estudantes do curso superior de Sistemas para Internet são registradas no Sistema de Informação e Gestão Acadêmica https://sigaaluno.ifto.edu.br/sigaepct-aluno-web/login.jsf[SIGA]. 
@@ -141,7 +143,7 @@ O vídeo a seguir apresenta como efetuar o primeiro acesso na plataforma.
 
 video::v_vQvUifMm0[youtube,width=640,height=480]
 
-IMPORTANT: Outro vídeos podem ser encontrados no https://fagno.github.io/moodle-tutorial/moodle-alunos/[Tutorial Moodle para Alunos].
+IMPORTANT: Outros vídeos podem ser encontrados no https://fagno.github.io/moodle-tutorial/moodle-alunos/[Tutorial Moodle para Alunos].
 
 === Google Classroom
 

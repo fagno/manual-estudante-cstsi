@@ -141,7 +141,7 @@ O vídeo a seguir apresenta como efetuar o primeiro acesso na plataforma.
 
 video::v_vQvUifMm0[youtube,width=640,height=480]
 
-Outro vídeos podem ser encontrados no tutorial Moodle disponível no https://fagno.github.io/moodle-tutorial/moodle-alunos/[Tutorial Moodle para Alunos.
+IMPORTANT: Outro vídeos podem ser encontrados no https://fagno.github.io/moodle-tutorial/moodle-alunos/[Tutorial Moodle para Alunos].
 
 === Google Classroom
 

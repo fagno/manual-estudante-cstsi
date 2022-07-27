@@ -61,55 +61,55 @@ NOTE: contato por e-mail ao atendimento integrado: cai.palmas@ifto.edu.br
 
 NOTE: contato por WhatsApp ao atendimento integrado: 3236 4013
 
-== SEMESTRE 2022/1
+== SEMESTRE 2022/2
 
-=== Horário Turmas 2022/1
+=== Horário Turmas 2022/2
 
 Acesse o horário de aulas do CST em Sistemas para Internet no semestre 2021/2.
 
-https://drive.google.com/file/d/1TJ3C4hSqC3jNeHwKD1H2kpO1SY-pqVR9/view?usp=sharing[Horário Turno Matutino]
+https://drive.google.com/file/d/1DUW73BgdAYYZW_363HLTSypIxw_Qs8UA/view?usp=sharing[Horário Turno Matutino]
 
-https://drive.google.com/file/d/168xqrWOadigxgYiZhEuajWw6qA4rrV52/view?usp=sharing[Horário Turno Noturno]
+https://drive.google.com/file/d/1emV-EEX4X1qcNvEjPq-C2vRhicSculSy/view?usp=sharing[Horário Turno Noturno]
 
-=== Código de Turmas Google Classroom
+// === Código de Turmas Google Classroom
 
-A seguir é apresentado o código das disciplinas dos professores que utilizam o classroom.
+// A seguir é apresentado o código das disciplinas dos professores que utilizam o classroom.
 
-|===
-|*PROFESSOR*| *DISCIPLINAS E CÓDIGOS*
-|Cláudio Monteiro| 
-- Introdução à Conectividade (MATUTINO): kwlnyfe
+// |===
+// |*PROFESSOR*| *DISCIPLINAS E CÓDIGOS*
+// |Cláudio Monteiro| 
+// - Introdução à Conectividade (MATUTINO): kwlnyfe
 
-- Tendências Tecnológicas para o MercadO de TI (MATUTINO): wzzlk5m
+// - Tendências Tecnológicas para o MercadO de TI (MATUTINO): wzzlk5m
 
-|Napoleao Ribeiro| 
-- Fundamentos de Redes de Computadores (MATUTINO): rrr5xb3 
+// |Napoleao Ribeiro| 
+// - Fundamentos de Redes de Computadores (MATUTINO): rrr5xb3 
 
-- Introdução à Computação (MATUTINO): p2px6z
+// - Introdução à Computação (MATUTINO): p2px6z
 
-|Edwardes Galhardo| 
+// |Edwardes Galhardo| 
 
-- Infraestrutura para Sistemas Web (MATUTINO): bxtilrw 
+// - Infraestrutura para Sistemas Web (MATUTINO): bxtilrw 
 
-- Infraestrutura para Sistemas Web (NOTURNO): xdeqnel 
+// - Infraestrutura para Sistemas Web (NOTURNO): xdeqnel 
 
-|Ana Paula Guimarães| 
+// |Ana Paula Guimarães| 
 
-- Programação para Dispositivos Móveis I (NOTURNO): beizvo5
+// - Programação para Dispositivos Móveis I (NOTURNO): beizvo5
 
-- Programação para Dispositivos Móveis II (MATUTINO): qf5vg4r
+// - Programação para Dispositivos Móveis II (MATUTINO): qf5vg4r
 
-- Programação para Dispositivos Móveis II (NOTURNO): dcsxdbd 
+// - Programação para Dispositivos Móveis II (NOTURNO): dcsxdbd 
 
-- Programação Orientada a Objetos (NOTURNO): mkorryg
+// - Programação Orientada a Objetos (NOTURNO): mkorryg
 
-|Marlio Kleber| 
+// |Marlio Kleber| 
 
-- Projeto de Interface Web (MATUTINO): u63lof2
+// - Projeto de Interface Web (MATUTINO): u63lof2
 
-- Projeto de Interface Web (NOTURNO): rupmk5n
+// - Projeto de Interface Web (NOTURNO): rupmk5n
 
-|===
+// |===
 
 === Calendário Acadêmico 2022
 

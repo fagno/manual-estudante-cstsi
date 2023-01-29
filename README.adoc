@@ -39,11 +39,11 @@ endif::[]
 
 == COORDENAÇÃO 
 
-Coordenador(a): Fagno Alves Fonseca
+Coordenador(a): Vinicius de Miranda Rios
 
 E-mail: csint.palmas@ifto.edu.br
 
-Telefone: (63) 3236 4037 (ATENDIMENTO POR E-MAIL DURANTE O PERÍODO DE ENSINO REMOTO)
+Telefone: (63) 3236 4037
 
 == CONTATO DA SECRETARIA ACADÊMICA
 
@@ -61,73 +61,32 @@ NOTE: contato por e-mail ao atendimento integrado: cai.palmas@ifto.edu.br
 
 NOTE: contato por WhatsApp ao atendimento integrado: 3236 4013
 
-== SEMESTRE 2022/2
+== SEMESTRE 2023/1
 
-=== Horário Turmas 2022/2
+=== Horário Turmas 2023/1
 
-Acesse o horário de aulas do CST em Sistemas para Internet no semestre 2021/2.
+Acesse o horário de aulas do CST em Sistemas para Internet.
 
-https://drive.google.com/file/d/1cD5QLHsAMMcsXVUtu0Rph8nImbTeRf5y/view?usp=sharing[Horário Turno Matutino]
+https://drive.google.com/file/d/1nDg8My0nQW0mESlUbNqtAqVFF81HXqP0/view?usp=share_link[Horário Turno Matutino]
 
-https://drive.google.com/file/d/1_LrHYl_bFFvxxdN1t9ZOjr007lkx6pUg/view?usp=sharing[Horário Turno Noturno]
+https://drive.google.com/file/d/17R801DFIomUt--EckBN-iZt4E3wjFdUr/view?usp=sharing[Horário Turno Noturno]
 
-// === Código de Turmas Google Classroom
 
-// A seguir é apresentado o código das disciplinas dos professores que utilizam o classroom.
+=== Calendário Acadêmico 2023
 
-// |===
-// |*PROFESSOR*| *DISCIPLINAS E CÓDIGOS*
-// |Cláudio Monteiro| 
-// - Introdução à Conectividade (MATUTINO): kwlnyfe
-
-// - Tendências Tecnológicas para o MercadO de TI (MATUTINO): wzzlk5m
-
-// |Napoleao Ribeiro| 
-// - Fundamentos de Redes de Computadores (MATUTINO): rrr5xb3 
-
-// - Introdução à Computação (MATUTINO): p2px6z
-
-// |Edwardes Galhardo| 
-
-// - Infraestrutura para Sistemas Web (MATUTINO): bxtilrw 
-
-// - Infraestrutura para Sistemas Web (NOTURNO): xdeqnel 
-
-// |Ana Paula Guimarães| 
-
-// - Programação para Dispositivos Móveis I (NOTURNO): beizvo5
-
-// - Programação para Dispositivos Móveis II (MATUTINO): qf5vg4r
-
-// - Programação para Dispositivos Móveis II (NOTURNO): dcsxdbd 
-
-// - Programação Orientada a Objetos (NOTURNO): mkorryg
-
-// |Marlio Kleber| 
-
-// - Projeto de Interface Web (MATUTINO): u63lof2
-
-// - Projeto de Interface Web (NOTURNO): rupmk5n
-
-// |===
-
-=== Calendário Acadêmico 2022
-
-Neste link você encontra os http://portal.ifto.edu.br/palmas/centrais-de-conteudos/documentos/calendarios-academicos[calendários acadêmicos] dos cursos do Campus Palmas.
+Neste link você encontra os http://portal.ifto.edu.br/palmas/centrais-de-conteudos/documentos/calendarios-academicos/calendarios-academicos-2023[calendários acadêmicos] dos cursos do Campus Palmas.
 
 == ACESSO A SISTEMAS
 
 WARNING: Suporte: gti.palmas@ifto.edu.br ou pelo nosso Whatsapp (63) 3236-4016
 
-=== Sistema Integrado de Gestão Acadêmica - SIGA
+=== Sistema Unificado de Administração Pública - SUAP
 
-As principais atividades da vida acadêmica dos estudantes do curso superior de Sistemas para Internet são registradas no Sistema de Informação e Gestão Acadêmica https://sigaaluno.ifto.edu.br/sigaepct-aluno-web/login.jsf[SIGA]. 
+As principais atividades da vida acadêmica dos estudantes do curso superior de Sistemas para Internet são registradas no https://suap.ifto.edu.br/accounts/login/[SUAP-EDU]. 
 
 IMPORTANT: Informações como matrícula, grade de horários, notas e histórico escolar podem ser acessadas por meio de login e senha.
 
-Primeiro Acesso/Esqueceu sua Senha do https://sigaaluno.ifto.edu.br/sigaepct-aluno-web/login.jsf[SIGA]?
-
-video::LT5wbZNvnKc[youtube,width=640,height=480]
+Acesse o manual para mais informações: link:SUAP/[Manual SUAP-EDU: Acesso do Estudante v.1]
 
 === Moodle
 
@@ -182,7 +141,7 @@ image::moodle-mobile-img2.png[width=400,height=300]
 |NÍVEL| Superior
 |MODALIDADE| Tecnológico
 |REGIME DE OFERTA| ( X ) Presencial ( ) Distância
-|CARGA HORÁRIA TOTAL| 2.120 horas
+|CARGA HORÁRIA TOTAL| 2.010 horas
 |DURAÇÃO DO CURSO| Período mínimo de 06 (seis) semestres e período máximo de 12 (doze) semestres.
 |REGIME DE OFERTA| Semestral
 |REGIME DE MATRÍCULA| Crédito
@@ -192,36 +151,48 @@ image::moodle-mobile-img2.png[width=400,height=300]
 
 === Projeto Pedagógico do Curso - PPC
 
-VIGENTE: http://portal.ifto.edu.br/ifto/colegiados/consup/documentos-aprovados/ppc/campus-palmas/tecnologia-em-sistemas-para-internet[Projeto Pedagógico do Curso - PPC]
+MATRIZ VIRGENTE: Será publicada em breve.
 
-ATIVA: http://portal.ifto.edu.br/ifto/colegiados/consup/documentos-aprovados/ppc/campus-palmas/tecnologia-em-sistemas-para-internet/ppc-tecnologia-sistemas-internet-campus-palmas.pdf/@@download/file/ppc-tecnologia-sistemas-internet-campus-palmas.pdf[Projeto Pedagógico do Curso - PPC]
+MATRIZ ATIVA: http://portal.ifto.edu.br/ifto/colegiados/consup/documentos-aprovados/ppc/campus-palmas/tecnologia-em-sistemas-para-internet[Projeto Pedagógico do Curso - PPC]
 
 === Grade Curricular
 
-http://portal.ifto.edu.br/palmas/campus-palmas/cursos-palmas/graduacao/tecnologico/sistemas-para-internet/copy_of_grade-curricular/grade-curricular-tecnologia-em-sistemas-para-internet-1.pdf/@@download/file/grade-curricular-tecnologia-em-sistemas-para-internet.pdf[Grade Curricular] aprovada pela Resolução nº 63/2019/CONSUP/IFTO, de 12 de novembro de 2019. Aplicada aos estudantes ingressantes a partir de 2017/1.
+MATRIZ VIRGENTE: Será publicada em breve.
+
+MATRIZ ATIVA: http://portal.ifto.edu.br/palmas/campus-palmas/cursos-palmas/graduacao/tecnologico/sistemas-para-internet/copy_of_grade-curricular/grade-curricular-tecnologia-em-sistemas-para-internet-1.pdf/@@download/file/grade-curricular-tecnologia-em-sistemas-para-internet.pdf[Grade Curricular] aprovada pela Resolução nº 63/2019/CONSUP/IFTO, de 12 de novembro de 2019. Aplicada aos estudantes ingressantes a partir de 2017/1.
 
 === Objetivo Geral 
 
-O curso visa formar profissionais capazes de desenvolver competências associadas à gerência e ao desenvolvimento de sistemas para Internet. Propõe mesclar conhecimentos teóricos e atividades práticas, com foco nas técnicas, metodologias apropriadas, e linguagens
-aplicadas às atividades de concepção, especificação, projeto, implementação, avaliação, suporte e manutenção de sistemas para Internet, ao desenvolvimento de Websites e à
+O curso visa formar profissionais capazes de desenvolver competências associadas à
+gerência e ao desenvolvimento de sistemas para Internet. Propõe mesclar conhecimentos
+teóricos e atividades práticas, com foco nas técnicas, metodologias apropriadas, e linguagens
+aplicadas às atividades de concepção, especificação, projeto, implementação, avaliação,
+suporte e manutenção de sistemas para Internet, ao desenvolvimento de Websites e à
 programação para dispositivos móveis.
 
 === Carga Horária
 
-A formação no Curso Superior de Tecnologia em Sistemas para Internet é contemplada por uma base sólida de conhecimentos ofertados no seu conjunto de disciplinas, que compreende 2.000 horas e Atividades Complementares de 120 horas, totalizando 2.120 horas para a integralização do curso.
+A formação no Curso Superior de Tecnologia em Sistemas para Internet é contemplada por uma base sólida de conhecimentos ofertados no seu conjunto de disciplinas, que compreende 2.010 horas para a integralização do curso.
+
+=== Integralização Curricular
+
+Os componentes curriculares serão trabalhados semestralmente. Para a integralização do curso, o prazo mínimo são 6 semestres e máximo 12 semestres. O curso terá 73,43% de sua carga horária total ofertada na modalidade presencial e 26,57% serão ofertados a distância, observando o disposto na legislação vigente.
 
 === Regime de Ofertas
 
-As aulas serão executadas de segunda a sexta-feira, podendo haver aulas aos sábados, que poderão ser considerados como dias letivos, conforme necessidade da Coordenação do Curso, para o desenvolvimento de atividades semipresenciais, reposição de aulas ou de acordo com o
-calendário acadêmico.
-
-Uma vez definidos os sábados como dias letivos, as aulas nesses dias poderão ocorrer nos turnos matutino e/ou vespertino.
-
-No Curso Superior de Tecnologia em Sistemas para Internet, serão ofertadas disciplinas que utilizam a modalidade presencial, com oferta de 20% da carga horária em modalidade de Educação Semipresencial, observando o disposto na legislação vigente.
-
-O curso será ofertado nos períodos matutino e noturno.
+As aulas ocorrerão, preferencialmente, de segunda a sexta-feira nos turnos matutino e noturno; contudo, poderão ocorrer aulas aos sábados, e quando houver será contado como dia letivo conforme calendário acadêmico. O horário de início e de término das aulas segue o funcionamento do campus, conforme publicação semestral do horário de aulas e calendário acadêmico.
 
 IMPORTANT: Aulas com duração de 45 minutos.
+
+==== Horário de Aulas - NOVA GRADE
+
+|===
+| *TURNO* | *ENTRADA* | *INTERVALO* | *SAÍDA*
+|MATUTINO| 07:30hs | 09:00hs às 09:15hs | 10:45hs
+|NOTURNO| 19:00hs | 20:30hs às 20:45hs | 22:15hs
+|===
+
+==== Horário de aulas - GRADE ANTIGA
 
 |===
 | *TURNO* | *ENTRADA* | *INTERVALO* | *SAÍDA*
@@ -256,6 +227,7 @@ IMPORTANT: Aulas com duração de 45 minutos.
 |Mayara Kaynne Fragoso Cabral | http://lattes.cnpq.br/7018967660955461 |mayarakf@ifto.edu.br
 |Napoleão Póvoa Ribeiro Filho |	http://lattes.cnpq.br/3384664312366751 | napoleao@ifto.edu.br
 |Paulo da Silva Paz Neto |http://lattes.cnpq.br/6887775735626728| paulopaz@ifto.edu.br
+|Ricardo Loureiro Soares | http://lattes.cnpq.br/5584175044541580| ricardo.soares@ifto.edu.br
 |Roberta Alehandra Prados Nobre | http://lattes.cnpq.br/5331379227520298| roberta.nobre@ifto.edu.br
 |Rodrigo Luiz dos Santos |	http://lattes.cnpq.br/4107094489289650 | rodrigosantos@ifto.edu.br
 |Simone Dutra Martins Guarda  |	http://lattes.cnpq.br/0399290478815423 | simonedmg@ifto.edu.br
@@ -266,22 +238,17 @@ IMPORTANT: Aulas com duração de 45 minutos.
 |Wilson Wolf Costa |http://lattes.cnpq.br/4641095971291235 | wcosta@ifto.edu.br
 |===
 
-=== Integralização Curricular
-
-O período para integralização curricular do curso é de no mínimo 06 (seis) semestres letivos, e no máximo 12 semestres letivos, *não havendo a obrigatoriedade de Trabalho
-de Conclusão de Curso (TCC)*, conforme preconiza a Resolução CNE/CP no 3/2002 de 08 de dezembro 2002 e ODP vigente.
-
 === Centro Acadêmico 
 
 Membros do Centro Acadêmico do Curso de Tecnologia em Sistemas Internet Ada Lovelace - CASPI.
 
-1º Titular: Ifta Rodrigues Moraes, nº matrícula: 2017101035031-9, Presidente do CASPI.
+1º Titular: Aline Reis Figueredo, Presidente do CASPI.
 
-2º Titular: Aline Reis Figueredo,  nº de matrícula: 2019201035017-6, Vice-Presidente do CASPI.
+2º Titular: Rauner Lucas Alves Amaral, Vice-Presidente do CASPI.
 
 IMPORTANT: contato: caadalovelace254@gmail.com
 
-== DAS ATIVIDADES COMPLEMENTARES
+== DAS ATIVIDADES COMPLEMENTARES (Apenas para as matrizes antigas)
 
 IMPORTANT: Contato do professor supervisor de atividades complementares: vinicius@ifto.edu.br
 

@@ -77,11 +77,11 @@ Acesse o horário de aulas do CST em Sistemas para Internet.
 
 https://drive.google.com/drive/u/1/folders/1EAaHyO4XiiZVi5bTXeckx_c3BNYXHqyX[Horário dos turnos matutino e noturno]
 
-Para ter acesso aos horários de cada professor do campus, acesse o link: https://ifto.edupage.org/timetable/
+Para ter acesso aos horários de cada professor do campus, acesse o link: https://ifto.edupage.org/timetable/[Horários dos professores]
 
 === Calendário Acadêmico 2024
 
-Neste link você encontra os https://portal.ifto.edu.br/palmas/centrais-de-conteudos/documentos/calendarios-academicos/calendarios-academicos-2024-1/calendario-superior-2024-alterado-pos-greve.pdf/view [calendários acadêmicos] dos cursos do Campus Palmas.
+Neste link você encontra os https://portal.ifto.edu.br/palmas/centrais-de-conteudos/documentos/calendarios-academicos/calendarios-academicos-2024-1/calendario-superior-2024-alterado-pos-greve.pdf[calendários acadêmicos] dos cursos do Campus Palmas.
 
 == ACESSO A SISTEMAS
 

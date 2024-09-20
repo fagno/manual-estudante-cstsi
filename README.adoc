@@ -158,15 +158,15 @@ image::moodle-mobile-img2.png[width=400,height=300]
 
 === Projeto Pedagógico do Curso - PPC
 
-PPC Vigente: https://portal.ifto.edu.br/ifto/colegiados/consup/documentos-aprovados/ppc/campus-palmas/tecnologia-em-sistemas-para-internet/ppc-superior-de-tecnologia-em-sistemas-para-internet-campus-palmas-ifto.pdf/view[Projeto Pedagógico do Curso]
+PPC VIGENTE: https://portal.ifto.edu.br/ifto/colegiados/consup/documentos-aprovados/ppc/campus-palmas/tecnologia-em-sistemas-para-internet/ppc-superior-de-tecnologia-em-sistemas-para-internet-campus-palmas-ifto.pdf/view[Projeto Pedagógico do Curso]
 
-PPC Grade Antiga: https://portal.ifto.edu.br/ifto/colegiados/consup/documentos-aprovados/ppc/campus-palmas/tecnologia-em-sistemas-para-internet/ppc-curso-superior-de-tecnologia-em-sistemas-para-internet-campus-palmas.pdf/view[Projeto Pedagógico do Curso]
+PPC GRADE ANTIGA: https://portal.ifto.edu.br/ifto/colegiados/consup/documentos-aprovados/ppc/campus-palmas/tecnologia-em-sistemas-para-internet/ppc-curso-superior-de-tecnologia-em-sistemas-para-internet-campus-palmas.pdf/view[Projeto Pedagógico do Curso]
 
 === Grade Curricular
 
-Matriz vigente: https://portal.ifto.edu.br/ifto/colegiados/consup/documentos-aprovados/ppc/campus-palmas/tecnologia-em-sistemas-para-internet/ppc-superior-de-tecnologia-em-sistemas-para-internet-campus-palmas-ifto.pdf/@@download/file/grade-curricular-tecnologia-em-sistemas-para-internet.pdf[Grade Curricular] convalidada pela Resolução CONSUP/IFTO N.º 212, de 18 de abril de 2023. Aplicada aos estudantes ingressantes a partir de 2023/1.
+MATRIZ VIGENTE: http://portal.ifto.edu.br/palmas/campus-palmas/cursos-palmas/graduacao/tecnologico/sistemas-para-internet/copy_of_grade-curricular/grade-curricular-tecnologia-em-sistemas-para-internet-1.pdf/@@download/file/grade-curricular-tecnologia-em-sistemas-para-internet.pdf[Grade Curricular] convalidada pela Resolução CONSUP/IFTO N.º 212, de 18 de abril de 2023. Aplicada aos estudantes ingressantes a partir de 2013/1.
 
-MATRIZ ATIVA: http://portal.ifto.edu.br/palmas/campus-palmas/cursos-palmas/graduacao/tecnologico/sistemas-para-internet/copy_of_grade-curricular/grade-curricular-tecnologia-em-sistemas-para-internet-1.pdf/@@download/file/grade-curricular-tecnologia-em-sistemas-para-internet.pdf[Grade Curricular] aprovada pela Resolução nº 63/2019/CONSUP/IFTO, de 12 de novembro de 2019. Aplicada aos estudantes ingressantes a partir de 2017/1.
+MATRIZ ANTIGA: http://portal.ifto.edu.br/palmas/campus-palmas/cursos-palmas/graduacao/tecnologico/sistemas-para-internet/copy_of_grade-curricular/grade-curricular-tecnologia-em-sistemas-para-internet-1.pdf/@@download/file/grade-curricular-tecnologia-em-sistemas-para-internet.pdf[Grade Curricular] aprovada pela Resolução nº 63/2019/CONSUP/IFTO, de 12 de novembro de 2019. Aplicada aos estudantes ingressantes a partir de 2017/1.
 
 === Objetivo Geral 
 

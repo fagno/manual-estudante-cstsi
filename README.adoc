@@ -39,7 +39,7 @@ endif::[]
 
 == COORDENAÇÃO 
 
-Coordenador(a): Vinicius de Miranda Rios
+Coordenador(a): Márlio Kléber Venâncio Gomes
 
 E-mail: csint.palmas@ifto.edu.br
 
@@ -50,8 +50,6 @@ Telefone: (63) 3236 4037
 Membros do Centro Acadêmico do Curso de Tecnologia em Sistemas Internet Ada Lovelace - CASPI.
 
 1º Titular: Aline Reis Figueredo, Presidente do CASPI.
-
-2º Titular: Rauner Lucas Alves Amaral, Vice-Presidente do CASPI.
 
 IMPORTANT: contato: caadalovelace254@gmail.com
 
@@ -71,19 +69,19 @@ NOTE: contato por e-mail ao atendimento integrado: cai.palmas@ifto.edu.br
 
 NOTE: contato por WhatsApp ao atendimento integrado: 3236 4013
 
-== SEMESTRE 2023/1
+== SEMESTRE 2024/2
 
-=== Horário Turmas 2023/1
+=== Horário Turmas 2024/2
 
 Acesse o horário de aulas do CST em Sistemas para Internet.
 
-https://drive.google.com/file/d/1nDg8My0nQW0mESlUbNqtAqVFF81HXqP0/view?usp=share_link[Horário Turno Matutino]
+https://drive.google.com/drive/u/1/folders/1EAaHyO4XiiZVi5bTXeckx_c3BNYXHqyX[Horário dos turnos matutino e noturno]
 
-https://drive.google.com/file/d/1w9NCgyq3NlLGJ0VclaKFgl5FatD0qkVE/view?usp=share_link[Horário Turno Noturno]
+Para ter acesso aos horários de cada professor do campus, acesse o link: https://ifto.edupage.org/timetable/
 
-=== Calendário Acadêmico 2023
+=== Calendário Acadêmico 2024
 
-Neste link você encontra os http://portal.ifto.edu.br/palmas/centrais-de-conteudos/documentos/calendarios-academicos/calendarios-academicos-2023[calendários acadêmicos] dos cursos do Campus Palmas.
+Neste link você encontra os https://portal.ifto.edu.br/palmas/centrais-de-conteudos/documentos/calendarios-academicos/calendarios-academicos-2024-1/calendario-superior-2024-alterado-pos-greve.pdf/view [calendários acadêmicos] dos cursos do Campus Palmas.
 
 == ACESSO A SISTEMAS
 
@@ -150,7 +148,7 @@ image::moodle-mobile-img2.png[width=400,height=300]
 |NÍVEL| Superior
 |MODALIDADE| Tecnológico
 |REGIME DE OFERTA| ( X ) Presencial ( ) Distância
-|CARGA HORÁRIA TOTAL| 2.010 horas
+|CARGA HORÁRIA TOTAL| 2.010 horas 
 |DURAÇÃO DO CURSO| Período mínimo de 06 (seis) semestres e período máximo de 12 (doze) semestres.
 |REGIME DE OFERTA| Semestral
 |REGIME DE MATRÍCULA| Crédito
@@ -160,15 +158,13 @@ image::moodle-mobile-img2.png[width=400,height=300]
 
 === Projeto Pedagógico do Curso - PPC
 
-MATRIZ VIRGENTE: Será publicada em breve.
+PPC Vigente: https://portal.ifto.edu.br/ifto/colegiados/consup/documentos-aprovados/ppc/campus-palmas/tecnologia-em-sistemas-para-internet/ppc-superior-de-tecnologia-em-sistemas-para-internet-campus-palmas-ifto.pdf/view[Projeto Pedagógico do Curso]
 
-MATRIZ ATIVA: http://portal.ifto.edu.br/ifto/colegiados/consup/documentos-aprovados/ppc/campus-palmas/tecnologia-em-sistemas-para-internet[Projeto Pedagógico do Curso - PPC]
+PPC Grade Antiga: https://portal.ifto.edu.br/ifto/colegiados/consup/documentos-aprovados/ppc/campus-palmas/tecnologia-em-sistemas-para-internet/ppc-curso-superior-de-tecnologia-em-sistemas-para-internet-campus-palmas.pdf/view[Projeto Pedagógico do Curso]
 
 === Grade Curricular
 
-MATRIZ VIRGENTE: Será publicada em breve.
-
-MATRIZ ATIVA: http://portal.ifto.edu.br/palmas/campus-palmas/cursos-palmas/graduacao/tecnologico/sistemas-para-internet/copy_of_grade-curricular/grade-curricular-tecnologia-em-sistemas-para-internet-1.pdf/@@download/file/grade-curricular-tecnologia-em-sistemas-para-internet.pdf[Grade Curricular] aprovada pela Resolução nº 63/2019/CONSUP/IFTO, de 12 de novembro de 2019. Aplicada aos estudantes ingressantes a partir de 2017/1.
+Matriz vigente: https://portal.ifto.edu.br/ifto/colegiados/consup/documentos-aprovados/ppc/campus-palmas/tecnologia-em-sistemas-para-internet/ppc-superior-de-tecnologia-em-sistemas-para-internet-campus-palmas-ifto.pdf/@@download/file/grade-curricular-tecnologia-em-sistemas-para-internet.pdf[Grade Curricular] convalidada pela Resolução CONSUP/IFTO N.º 212, de 18 de abril de 2023. Aplicada aos estudantes ingressantes a partir de 2013/1.
 
 === Objetivo Geral 
 
@@ -484,4 +480,8 @@ III – apenas lhe falte cumprir o Estágio Curricular Supervisionado ou Trabalh
 § 2o A dilação de prazo poderá ser concedida uma única vez.
 
 § 3o Durante o período de dilação do prazo concedido, o estudante não poderá efetuar trancamento de matrícula.
+
+== ACESSO AO ACERVO DA BIBLIOTECA
+
+A Biblioteca do campus Palmas elaborou um guia completo de como acessar os recursos/acervos da biblioteca. O material de consulta está disponível no link: https://portal.ifto.edu.br/palmas/campus-palmas/ensino2/biblioteca/guia-pratico-da-biblioteca/guia-pratico-da-biblioteca.pdf/view. No guia, é mostrado como o estudante consegue acessar: o sistema SOPHIA, o acervo VIRTUAL e o portal da CAPES.
 

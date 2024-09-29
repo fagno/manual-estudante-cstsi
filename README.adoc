@@ -485,5 +485,5 @@ III – apenas lhe falte cumprir o Estágio Curricular Supervisionado ou Trabalh
 
 == ACESSO AO ACERVO DA BIBLIOTECA
 
-A Biblioteca do campus Palmas elaborou um guia completo de como acessar os recursos/acervos da biblioteca. O material de consulta está disponível no link: https://portal.ifto.edu.br/palmas/campus-palmas/ensino2/biblioteca/guia-pratico-da-biblioteca/guia-pratico-da-biblioteca.pdf[Guia Prático]. No guia, é mostrado como o estudante consegue acessar: o sistema SOPHIA, o acervo VIRTUAL e o portal da CAPES.
+A equipe da biblioteca do campus Palmas elaborou um guia completo de como acessar os recursos/acervos da biblioteca. O material de consulta está disponível no link: https://portal.ifto.edu.br/palmas/campus-palmas/ensino2/biblioteca/guia-pratico-da-biblioteca/guia-pratico-da-biblioteca.pdf[Guia Prático]. No guia, é mostrado como o estudante pode acessar: o sistema SOPHIA, o acervo VIRTUAL e o portal da CAPES.
 

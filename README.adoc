@@ -148,7 +148,7 @@ image::moodle-mobile-img2.png[width=400,height=300]
 |NÍVEL| Superior
 |MODALIDADE| Tecnológico
 |REGIME DE OFERTA| ( X ) Presencial ( ) Distância
-|CARGA HORÁRIA TOTAL| 2.010 horas 
+|CARGA HORÁRIA TOTAL| 2.680 horas 
 |DURAÇÃO DO CURSO| Período mínimo de 06 (seis) semestres e período máximo de 12 (doze) semestres.
 |REGIME DE OFERTA| Semestral
 |REGIME DE MATRÍCULA| Crédito
@@ -179,7 +179,7 @@ programação para dispositivos móveis.
 
 === Carga Horária
 
-A formação no Curso Superior de Tecnologia em Sistemas para Internet é contemplada por uma base sólida de conhecimentos ofertados no seu conjunto de disciplinas, que compreende 2.010 horas para a integralização do curso.
+A formação no Curso Superior de Tecnologia em Sistemas para Internet é contemplada por uma base sólida de conhecimentos ofertados no seu conjunto de disciplinas, que compreende 2.680 horas para a integralização do curso.
 
 === Integralização Curricular
 

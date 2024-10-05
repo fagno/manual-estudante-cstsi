@@ -158,9 +158,9 @@ image::moodle-mobile-img2.png[width=400,height=300]
 
 === Projeto Pedagógico do Curso - PPC
 
-PPC VIGENTE: https://portal.ifto.edu.br/ifto/colegiados/consup/documentos-aprovados/ppc/campus-palmas/tecnologia-em-sistemas-para-internet/ppc-superior-de-tecnologia-em-sistemas-para-internet-campus-palmas-ifto.pdf/view [Projeto Pedagógico do Curso]
+PPC VIGENTE: https://portal.ifto.edu.br/ifto/colegiados/consup/documentos-aprovados/ppc/campus-palmas/tecnologia-em-sistemas-para-internet/ppc-superior-de-tecnologia-em-sistemas-para-internet-campus-palmas-ifto.pdf/view[Projeto Pedagógico do Curso]
 
-PPC GRADE ANTIGA: https://portal.ifto.edu.br/ifto/colegiados/consup/documentos-aprovados/ppc/campus-palmas/tecnologia-em-sistemas-para-internet/ppc-curso-superior-de-tecnologia-em-sistemas-para-internet-campus-palmas.pdf/view [Projeto Pedagógico do Curso]
+PPC GRADE ANTIGA: https://portal.ifto.edu.br/ifto/colegiados/consup/documentos-aprovados/ppc/campus-palmas/tecnologia-em-sistemas-para-internet/ppc-curso-superior-de-tecnologia-em-sistemas-para-internet-campus-palmas.pdf/view[Projeto Pedagógico do Curso]
 
 === Grade Curricular
 

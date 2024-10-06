@@ -164,7 +164,7 @@ PPC GRADE ANTIGA: https://portal.ifto.edu.br/ifto/colegiados/consup/documentos-a
 
 === Grade Curricular
 
-MATRIZ VIGENTE: https://drive.google.com/file/d/1hIsa8igzrJyZMEbDQhY4snOuCWUKPzvR/view?usp=sharing[Grade Curricular] convalidada pela Resolução CONSUP/IFTO N.º 212, de 18 de abril de 2023. Aplicada aos estudantes ingressantes a partir de 2023/1.
+MATRIZ VIGENTE: http://portal.ifto.edu.br/palmas/campus-palmas/cursos-palmas/graduacao/tecnologico/sistemas-para-internet/copy_of_grade-curricular/grade-curricular-tecnologia-em-sistemas-para-internet-1.pdf/@@download/file/grade-curricular-tecnologia-em-sistemas-para-internet.pdf[Grade Curricular] convalidada pela Resolução CONSUP/IFTO N.º 212, de 18 de abril de 2023. Aplicada aos estudantes ingressantes a partir de 2013/1.
 
 MATRIZ ANTIGA: http://portal.ifto.edu.br/palmas/campus-palmas/cursos-palmas/graduacao/tecnologico/sistemas-para-internet/copy_of_grade-curricular/grade-curricular-tecnologia-em-sistemas-para-internet-1.pdf/@@download/file/grade-curricular-tecnologia-em-sistemas-para-internet.pdf[Grade Curricular] aprovada pela Resolução nº 63/2019/CONSUP/IFTO, de 12 de novembro de 2019. Aplicada aos estudantes ingressantes a partir de 2017/1.
 
@@ -478,7 +478,7 @@ II – cumpriu, com aprovação, no mínimo 80% (oitenta por cento) do total dos
 III – apenas lhe falte cumprir o Estágio Curricular Supervisionado ou Trabalho de Conclusão de Curso ou Atividades Complementares.
 
 § 1o O prazo de dilação não excederá a 2 (dois) semestres letivos ou 1 (um) ano letivo.
-
+https://github.com/fagno/manual-estudante-cstsi/pull/3/conflict?name=README.adoc&ancestor_oid=d319ad0a4de7eff2544a4f1d8855026aae1ac592&base_oid=00c1a44050d062884cd265e854362b0dd1e6aae5&head_oid=e52f455ab7e13b3e8adb86ca9fbd4318750ae82b
 § 2o A dilação de prazo poderá ser concedida uma única vez.
 
 § 3o Durante o período de dilação do prazo concedido, o estudante não poderá efetuar trancamento de matrícula.

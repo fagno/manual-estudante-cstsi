@@ -179,7 +179,7 @@ programação para dispositivos móveis.
 
 === Carga Horária
 
-A formação no Curso Superior de Tecnologia em Sistemas para Internet é contemplada por uma base sólida de conhecimentos ofertados no seu conjunto de disciplinas, que compreende 2.010 horas para a integralização do curso.
+A formação no Curso Superior de Tecnologia em Sistemas para Internet é contemplada por uma base sólida de conhecimentos ofertados no seu conjunto de disciplinas, que compreende 2.680 horas para a integralização do curso.
 
 === Integralização Curricular
 
@@ -478,7 +478,7 @@ II – cumpriu, com aprovação, no mínimo 80% (oitenta por cento) do total dos
 III – apenas lhe falte cumprir o Estágio Curricular Supervisionado ou Trabalho de Conclusão de Curso ou Atividades Complementares.
 
 § 1o O prazo de dilação não excederá a 2 (dois) semestres letivos ou 1 (um) ano letivo.
-
+https://github.com/fagno/manual-estudante-cstsi/pull/3/conflict?name=README.adoc&ancestor_oid=d319ad0a4de7eff2544a4f1d8855026aae1ac592&base_oid=00c1a44050d062884cd265e854362b0dd1e6aae5&head_oid=e52f455ab7e13b3e8adb86ca9fbd4318750ae82b
 § 2o A dilação de prazo poderá ser concedida uma única vez.
 
 § 3o Durante o período de dilação do prazo concedido, o estudante não poderá efetuar trancamento de matrícula.
